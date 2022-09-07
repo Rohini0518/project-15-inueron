@@ -22,4 +22,4 @@ This landing page, took me almost 8 hrs to complete,this is my project in fullst
 
 
 ## Here is live link
-[Live link]()
+[Live link](https://rohini-project15.netlify.app/)
